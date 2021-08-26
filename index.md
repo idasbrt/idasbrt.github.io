@@ -1,1 +1,5 @@
-This is the front page of my GitHub pages
+---
+layout: default
+---
+
+This is the front page of my website
