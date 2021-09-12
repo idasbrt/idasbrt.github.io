@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Viz in Bali Launches Site
-date: 2014-04-30
+title: "Viz in Bali Launches Site"
+date: 2020-09-10
 ---
 
 Hello world! 
