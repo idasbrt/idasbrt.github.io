@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Iableau Interactive Resume
+title: Tableau Interactive Resume
 date: 2020-09-10
 ---
 
-<div class='tableauPlaceholder' id='viz1635830197905' style='position: relative'>
+<center><div class='tableauPlaceholder' id='viz1635830197905' style='position: relative'>
   
 <noscript><a href='#'>
   <img alt='Interactive Resume ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ek&#47;EkaSubrata-InteractiveResume&#47;InteractiveResume&#47;1_rss.png' style='border: none' /></a>
@@ -32,7 +32,7 @@ date: 2020-09-10
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+</script></center>
   
 I started developing this interactive resume back in February after browsing the Tableau Public Gallery and was challenged to create something different, but something that suits me at the same time. I find the half-bubble chart to be the most difficult part of creating this viz. It took me a couple of weeks to find the right tutorial to achieve the look that I wanted. 
 
